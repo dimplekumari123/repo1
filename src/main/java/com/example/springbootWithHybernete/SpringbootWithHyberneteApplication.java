@@ -10,6 +10,7 @@ public class SpringbootWithHyberneteApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootWithHyberneteApplication.class, args);
+		System.out.println();
 	}
 
 }
